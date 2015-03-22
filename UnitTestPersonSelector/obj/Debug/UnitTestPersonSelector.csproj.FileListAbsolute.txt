@@ -1,0 +1,15 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\bin\Debug\UnitTestPersonSelector.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\bin\Debug\UnitTestPersonSelector.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\bin\Debug\Helpers.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\bin\Debug\SampleStoredProcMethodUnitTest.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\bin\Debug\Helpers.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\bin\Debug\SampleStoredProcMethodUnitTest.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\obj\Debug\UnitTestPersonSelector.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\obj\Debug\UnitTestPersonSelector.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\obj\Debug\UnitTestPersonSelector.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\bin\Debug\Data.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\UnitTestPersonSelector\bin\Debug\Data.pdb

@@ -1,0 +1,11 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\Data\bin\Debug\Data.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\Data\bin\Debug\Data.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\Data\bin\Debug\Helpers.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\Data\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\Data\bin\Debug\Helpers.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\Data\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\Data\obj\Debug\Data.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\SampleStoredProcMethodUnitTest\Data\obj\Debug\Data.pdb
